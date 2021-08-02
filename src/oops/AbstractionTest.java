@@ -41,6 +41,7 @@ public class AbstractionTest {
 			default:
 				System.out.println("The entered option is invalid...");
 				System.out.println("Program teriminates.");
+				System.out.println("Hello programmer");
 				sc.close();
 				System.exit(0);
 			}
