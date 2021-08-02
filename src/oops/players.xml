@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>  <!-- prolog & encoding -->
+<players>
+	<player id="18">
+		<firstname>Virat Kohli</firstname>
+		<lastname>Aggresive</lastname>
+		<nickname>Chiku</nickname>
+
+	</player>
+	<firstname>Dhoni</firstname>
+	<lastname>Cool</lastname>
+	<nickname>Mahi</nickname>
+	<player>
+
+	</player>
+
+
+
+
+
+</players>
